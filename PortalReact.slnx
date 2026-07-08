@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/PortalWeb/portalweb.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
